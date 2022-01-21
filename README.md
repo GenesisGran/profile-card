@@ -25,7 +25,7 @@ Hello there! This is my solution to the [Profile card component challenge on Fro
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-using-html-css-flexbox-and-media-query-iTIlJCuWV]
 - Live Site URL: [https://genesisgran.github.io/profile-card/]
 
 ## Built with
